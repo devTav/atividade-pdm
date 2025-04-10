@@ -62,7 +62,7 @@ Use o app **Expo Go** no seu celular para escanear o QR Code, ou execute em um e
 ---
 
 ## 🧑‍💻 Desenvolvido por
-**Gustavo [Seu Sobrenome Aqui]**  
+**Gustavo Luiz**  
 gustavo.l.faria@iesb.edu.br  
 Curso de Ciências da Computação – IESB  
 Abril/2025
